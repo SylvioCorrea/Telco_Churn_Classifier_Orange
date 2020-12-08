@@ -1,6 +1,0 @@
-é necessário usar data sampler?
-pode usar regressão logística?
-como fazer para visualizar os dados em uma regressão logística
-o que fazer de limpeza de dados e análise de dados?
-
-select filters select colors
